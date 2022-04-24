@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/root/.emacs.d/" . "auto-save-list/")
+ ("/root/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/root/repo/argoflow/"
+ "/root/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/root/repo/argoflow/" (24942 48099 617904 993000) ".git/" "README.md" "LICENSE" "setup_repo.sh" "./" "../" "setup_repo_mac.sh" "docs/" "distribution/" "kind/" ".github/" ".gitattributes" ".releaserc" "examples/")
+
+ ("/root/.emacs.d/" (24846 45926 42359 487000) "transient/" "auto-save-list/" "elpa/" "./" "../" "init.el" "ido.last")
+
+ ("/root/.emacs.d/auto-save-list/" (24846 45592 518847 863000) "./" "../")
+
+ ("/root/" (24846 24069 351832 434000) ".ssh/" "sealed-secrets-key" "nfs-server-provisioner/" "test.yaml" ".docker/" "metallb-cm.yaml" ".viminfo" "my-cert.crt" "nginx.yaml" ".policy.yaml.swp" "nfs-provisioning/" "script.sh" "nfs-server-provisioner-1.0.0.tgz" "nginx/" "busybox.yaml" "htpasswd" "go/" ".cache/" ".wget-hsts" "pub-cert.pem" "./" "../" "darwin-amd64/" "envs" ".viminfo.tmp" "pvc.yaml" ".gnupg/" "pvc3.yaml" ".lesshst" "traefik-nodeport.yaml" "network/" ".ansible/" "repo/" "pv.json" "jenkins/" "istio-1.3.2/" ".local/" "gitlab-admin-service.yaml" ".ansible_async/" "volume.yaml" "pvc-test.yaml" "heketi-secret.yaml" "deploypvc.yaml" "deployment.yaml" ".helm3/" ".helm/" ".bash_history" "snap/" "volume/" "test.conf" "istio-1.3.5/" ".krew/" "pv2.yaml" "busyboa.yaml" "config-backup/" "calico.yaml" "kubelet-generated.conf" "preprod/" "kube-manifests/" ".vim/" "pv.yaml" "nginx-5.0.0.tgz" ".config/" "pv3.yaml" "demo/" ".emacs.d/" ".profile" ".kube/" ".bashrc")
+
+ ("/root/repo/" (24059 39278 586210 220000) "kardio/" "Paas-sync/" "sealed-secret-windows/" "sonatype-nexus-1.19.0.tgz" "sonatype-nexus/" "pub-cert.pem" "./" "../" "gitops-istio/" "PaaS-conf/" "api-gateway-kong/")
+
+ ("/root/repo/Paas-sync/" (24845 24506 213089 916000) "networkpolicy/" ".git/" "applications/" "README.md" "LICENSE" "./" "../" "charts/" "templates/" "argo_values.yaml" "workloads/" "releases/" "namespaces/")
+
+ ("/root/repo/Paas-sync/charts/" (24846 13929 939624 331000) "heartbeattech-front/" "traefik/" "sonarqube/" "grafana/" "sealed-secrets-old/" "traefik-10.1.1.tgz" "sealed-secrets-1.3.0.tgz" "sonatype-nexus/" "recrutement-front/" "docker-registry-secured/" "./" "../" "mysql/" "recrutement-back/" "mongodb/" "traefik-new/" "argocd/" "mariadb/" "mongodbb/" "ghost/" "test-app/" "hearteattech-back/" "kubewatch/" "docker-registry-covoiturage/" "heatbeattech-back-paas/" "sealed-secrets/" "test-paas/" "docker-registry/")
+
+ ("/root/repo/Paas-sync/charts/argocd/" (24846 15330 82408 892000) "Chart.lock" "README.md" "crds/" "./" "../" "charts/" "values.yaml" "templates/" ".helmignore" "Chart.yaml")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
